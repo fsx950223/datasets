@@ -50,6 +50,7 @@ from tensorflow_datasets.image.quickdraw import QuickdrawBitmap
 from tensorflow_datasets.image.rock_paper_scissors import RockPaperScissors
 from tensorflow_datasets.image.shapes3d import Shapes3d
 from tensorflow_datasets.image.smallnorb import Smallnorb
+from tensorflow_datasets.image.so2sat import So2sat
 from tensorflow_datasets.image.sun import Sun397
 from tensorflow_datasets.image.svhn import SvhnCropped
 from tensorflow_datasets.image.voc import Voc2007
